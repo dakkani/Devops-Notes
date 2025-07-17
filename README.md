@@ -1,2 +1,2 @@
-# Devops-Notes
-My notes of devops
+# DevOps-Notes
+My DevOps Notes
